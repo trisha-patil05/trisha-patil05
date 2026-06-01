@@ -30,7 +30,7 @@
 ## 🔭 Currently
 
 - 🛠️ Building: Assignment Management System v2 with analytics dashboard
-- 🌱 Currently learning: TypeScript · Next.js · System Design basics
+- 🌱 Currently learning: Next.js · System Design basics
 - 🎯 Goal: On-campus placement 2027 | Open to internships now
 - 📍 Location: Gujarat, India
 
