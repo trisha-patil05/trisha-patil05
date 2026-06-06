@@ -1,17 +1,15 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Trisha+Patil;Full-Stack+MERN+Developer;B.Tech+IT+%7C+Batch+2027; Open+to+Internships+%26+Placements!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Trisha+Patil" />
 </p>
 
-<h3 align="center">
-💻 Full-Stack Developer | MERN Stack | React · Node.js · MongoDB | B.Tech. IT 2027
-</h3>
+<h3 align="center">💻 Full-Stack Developer | MERN Stack | React · Node.js · MongoDB | B.Tech. IT 2027</h3>
 
-<p align="center"
-  </a>
+<p align="center">Full-Stack MERN Developer · B.Tech IT '27 · Open to Internships & Placements</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=trisha-patil05&style=for-the-badge&color=blue" />
 </p>
-
 ---
 
 ## 🚀 About Me
