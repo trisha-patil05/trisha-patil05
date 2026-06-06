@@ -8,14 +8,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Trisha+Patil" />
 </p>
 
-</p>
+
 <h3 align="center">
 💻 Full-Stack Developer | MERN Stack | React · Node.js · MongoDB | B.Tech. IT 2027
 </h3>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=trisha-patil05.trisha0510" alt="Visitor Count" />
-</p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=trisha-patil05.trisha-patil05" alt="Visitor Count" />
+
 ---
 
 ## 🚀 About Me
