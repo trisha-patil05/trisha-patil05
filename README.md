@@ -1,14 +1,20 @@
 <!-- Header -->
+<!-- Open to Work Badge -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Trisha+Patil" />
+  <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Full--Stack%20%7C%20MERN%20Developer-brightgreen?style=for-the-badge" />
 </p>
 
-<h3 align="center">💻 Full-Stack Developer | MERN Stack | React · Node.js · MongoDB | B.Tech. IT 2027</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Trisha+Patil" />
+</p>
 
-<p align="center">Full-Stack MERN Developer · B.Tech IT '27 · Open to Internships & Placements</p>
+</p>
+<h3 align="center">
+💻 Full-Stack Developer | MERN Stack | React · Node.js · MongoDB | B.Tech. IT 2027
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trisha-patil05&style=for-the-badge&color=blue" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=trisha-patil05.trisha0510" alt="Visitor Count" />
 </p>
 ---
 
