@@ -6,7 +6,7 @@
 <br/><br/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Trisha+Patil;Full-Stack+MERN+Developer;Building+real+products%2C+not+just+projects." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Trisha+Patil;" />
 
 <br/>
 
