@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="28"/>
   </a>
   &nbsp;
-  <a href="mailto:trishapatil05@gmail.com">
+  <a href="mailto:trisha5102005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28"/>
   </a>
   &nbsp;
