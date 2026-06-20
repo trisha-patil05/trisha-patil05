@@ -15,7 +15,7 @@
 </h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/trisha-patil-629ab3300" target="_blank">
+  <a href="https://www.linkedin.com/in/trisha-patil05/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="28"/>
   </a>
   &nbsp;
