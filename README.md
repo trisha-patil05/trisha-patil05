@@ -121,7 +121,9 @@ Hands-on AWS projects focusing on deploying and managing cloud infrastructure.
 
 ## 🔢 DSA & Problem Solving
 
-![LeetCode](https://img.shields.io/badge/LeetCode-Practicing-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+<a href="https://leetcode.com/u/W1CFfUnQcm/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=black&style=for-the-badge"/>
+</a>
 ![GFG](https://img.shields.io/badge/GeeksforGeeks-Practicing-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
 Practicing consistently on **LeetCode** and **GeeksforGeeks**  
