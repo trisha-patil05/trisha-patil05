@@ -124,9 +124,9 @@ Hands-on AWS projects focusing on deploying and managing cloud infrastructure.
 <a href="https://leetcode.com/u/W1CFfUnQcm/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=black&style=for-the-badge"/>
 </a>
-![GFG](https://img.shields.io/badge/GeeksforGeeks-Practicing-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
-Practicing consistently on **LeetCode** and **GeeksforGeeks**  
+
+Practicing consistently on **LeetCode**
 Topics: Arrays · Strings · Recursion · Trees · Graphs · Dynamic Programming  
 Solutions repo → [dsa-with-javascript](https://github.com/trisha-patil05/dsa-with-javascript)
 
