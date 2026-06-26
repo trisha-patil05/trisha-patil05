@@ -27,7 +27,7 @@
 
 ## 👩‍💻 About Me
 
-Final year B.Tech IT student from Gujarat with a thing for beautiful, functional web experiences. I don't just build apps — I obsess over the look, the feel, the theme, the details. Good UI is not an accident, it's intentional. Pairing that design sense with full-stack skills and now leveling up in DSA, MySQL, and Cloud.
+Final year B.Tech IT student from Gujarat who enjoys building web experiences that are both functional and visually well-crafted. I have a strong eye for design — themes, layouts, and UI that feel intentional. Backed by full-stack development skills and currently deepening my knowledge in DSA, MySQL, and Cloud.
 
 - 🎨 Passionate about **web design** — themes, layouts, and UI that actually look good
 - 💻 Full-stack development with real internship experience at **Zymo Research**
