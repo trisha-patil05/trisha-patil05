@@ -91,6 +91,19 @@ A web app for managing assignments across student and teacher roles — solving 
 
 ---
 
+### ⚙️ Automated Node.js CI/CD Pipeline
+`GitHub Actions` `Docker` `Node.js` `Render`
+
+Production-grade CI/CD pipeline — every git push auto-triggers testing, Docker image build & push to Docker Hub, and live deployment to Render. Zero manual steps.
+
+📝 git push → 🧪 Test → 🐳 Docker → 🚀 Deploy. Automatically.
+
+<a href="https://github.com/TrisHa0510/node-cicd-pipeline">
+  <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?logo=github&style=for-the-badge" />
+</a>
+
+---
+
 ### ☁️ AWS Projects — Cloud Infrastructure Practice
 `AWS EC2` `AWS S3` `AWS RDS` `MySQL` `Linux`
 
@@ -134,6 +147,7 @@ Solutions repo → [dsa-with-javascript](https://github.com/trisha-patil05/dsa-w
 | Certificate | Issuer |
 |---|---|
 | AWS Cloud Practitioner Essentials | Amazon Web Services |
+| Python Programming | Scaler Academy |
 | Software Development Job Simulation | Datacom via Forage |
 | Software Engineering Virtual Experience | Accenture via Forage |
 | Responsive Web Design | freeCodeCamp |
