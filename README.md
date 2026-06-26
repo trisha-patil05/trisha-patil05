@@ -3,6 +3,7 @@
 <img src="https://img.shields.io/badge/🟢%20Open%20to%20Internships-MERN%20%7C%20Full--Stack%20%7C%20Cloud-00D4FF?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1200&color=00D4FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Trisha+Patil;Full-Stack+MERN+Developer;AWS+%7C+Docker+%7C+CI%2FCD;B.Tech+IT+2027+%C2%B7+Gujarat" />
 
 <br/>
@@ -19,6 +20,10 @@
   <a href="https://leetcode.com/u/W1CFfUnQcm/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" height="28"/>
   </a>
+  &nbsp;
+  <a href="https://trisha-patil05.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D4FF?logo=google-chrome&logoColor=black&style=for-the-badge" height="28"/>
+  </a>
 </p>
 
 </div>
@@ -29,10 +34,10 @@
 
 Final year B.Tech IT student from Gujarat who enjoys building web experiences that are both functional and visually well-crafted. I have a strong eye for design — themes, layouts, and UI that feel intentional. Backed by full-stack development skills and currently deepening my knowledge in DSA, MySQL, and Cloud.
 
-- 🎨 Passionate about **web design** — themes, layouts, and UI that actually look good
+- 🎨 Strong eye for **web design** — clean themes, good layouts, polished UI
 - 💻 Full-stack development with real internship experience at **Zymo Research**
 - 📈 Currently leveling up: **DSA** · **MySQL** · **AWS Cloud**
-- 🎯 Final year · Looking for internships where design meets development
+- 🎯 Final year · Open to internships where I can build, design, and grow
 
 ---
 
