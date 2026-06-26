@@ -28,11 +28,12 @@
 
 ## 👩‍💻 About Me
 
-B.Tech IT student (2027) from Gujarat building full-stack MERN applications with cloud deployment experience. I've shipped features used by real users at Zymo Research, and I'm currently expanding into AWS, Docker, and CI/CD pipelines.
+Final year B.Tech IT student from Gujarat with a thing for beautiful, functional web experiences. I don't just build apps — I obsess over the look, the feel, the theme, the details. Good UI is not an accident, it's intentional. Pairing that design sense with full-stack skills and now leveling up in DSA, MySQL, and Cloud.
 
-- 🔭 Currently building: **Assignment Management System v2** with analytics dashboard
-- ☁️ Currently learning: **AWS** · **Docker** · **Next.js** · System Design
-- 🎯 Goal: On-campus placement 2027 | Open to internships right now
+- 🎨 Passionate about **web design** — themes, layouts, and UI that actually look good
+- 💻 Full-stack development with real internship experience at **Zymo Research**
+- 📈 Currently leveling up: **DSA** · **MySQL** · **AWS Cloud**
+- 🎯 Final year · Looking for internships where design meets development
 
 ---
 
