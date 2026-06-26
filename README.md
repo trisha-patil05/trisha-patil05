@@ -101,8 +101,6 @@ Hands-on AWS projects focusing on deploying and managing cloud infrastructure.
 - Set up **RDS (MySQL)** instances and connected them to backend applications
 - Practicing core cloud concepts: networking, security groups, storage, and database management
 
-<!-- Add repo link when ready -->
-
 ---
 
 ## 🧠 Tech Stack
@@ -125,8 +123,7 @@ Hands-on AWS projects focusing on deploying and managing cloud infrastructure.
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=black&style=for-the-badge"/>
 </a>
 
-
-Practicing consistently on **LeetCode**
+Practicing consistently on **LeetCode**  
 Topics: Arrays · Strings · Recursion · Trees · Graphs · Dynamic Programming  
 Solutions repo → [dsa-with-javascript](https://github.com/trisha-patil05/dsa-with-javascript)
 
@@ -137,12 +134,9 @@ Solutions repo → [dsa-with-javascript](https://github.com/trisha-patil05/dsa-w
 | Certificate | Issuer |
 |---|---|
 | AWS Cloud Practitioner Essentials | Amazon Web Services |
-| Python Programming | Scaler Academy |
 | Software Development Job Simulation | Datacom via Forage |
 | Software Engineering Virtual Experience | Accenture via Forage |
 | Responsive Web Design | freeCodeCamp |
-
-> 💡 *Add your actual AWS cert name here — if you haven't gotten one yet, remove that row until you do*
 
 ---
 
