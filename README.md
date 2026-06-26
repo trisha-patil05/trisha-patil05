@@ -104,17 +104,6 @@ Production-grade CI/CD pipeline — every git push auto-triggers testing, Docker
 
 ---
 
-### ☁️ AWS Projects — Cloud Infrastructure Practice
-`AWS EC2` `AWS S3` `AWS RDS` `MySQL` `Linux`
-
-Hands-on AWS projects focusing on deploying and managing cloud infrastructure.
-
-- Deployed Node.js applications on **EC2** instances with Linux server configuration
-- Managed static assets and file storage via **S3** buckets with proper IAM permissions
-- Set up **RDS (MySQL)** instances and connected them to backend applications
-- Practicing core cloud concepts: networking, security groups, storage, and database management
-
----
 
 ## 🧠 Tech Stack
 
