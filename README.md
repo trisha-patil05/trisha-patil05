@@ -3,7 +3,6 @@
 <img src="https://img.shields.io/badge/🟢%20Open%20to%20Internships-MERN%20%7C%20Full--Stack%20%7C%20Cloud-00D4FF?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1200&color=00D4FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Trisha+Patil;Full-Stack+MERN+Developer;AWS+%7C+Docker+%7C+CI%2FCD;B.Tech+IT+2027+%C2%B7+Gujarat" />
 
 <br/>
