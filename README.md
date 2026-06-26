@@ -104,18 +104,40 @@ Production-grade CI/CD pipeline — every git push auto-triggers testing, Docker
 
 ---
 
+### ☁️ AWS Projects — Cloud Infrastructure Practice
+`AWS EC2` `AWS S3` `AWS RDS` `MySQL` `Linux`
+
+Hands-on AWS projects focusing on deploying and managing cloud infrastructure.
+
+- Deployed Node.js applications on **EC2** instances with Linux server configuration
+- Managed static assets and file storage via **S3** buckets with proper IAM permissions
+- Set up **RDS (MySQL)** instances and connected them to backend applications
+- Practicing core cloud concepts: networking, security groups, storage, and database management
+
+---
 
 ## 🧠 Tech Stack
 
-| Layer | Technologies |
+| Skill | Proficiency |
 |---|---|
-| **Languages** | JavaScript · Python · Dart · SQL |
-| **Frontend** | React.js · Next.js · HTML5 · CSS3 · Tailwind CSS |
-| **Backend** | Node.js · Express.js |
-| **Databases** | MongoDB · MySQL |
-| **Cloud** | AWS (EC2, S3, RDS) |
-| **Mobile** | Flutter |
-| **Tools** | Git · GitHub · VS Code · Postman · MySQL Workbench |
+| **HTML & CSS** | 90% |
+| **JavaScript** | 80% |
+| **React.js** | 75% |
+| **Node.js & Express** | 70% |
+| **MongoDB** | 70% |
+| **Flutter & Dart** | 65% |
+| **Python** | 65% |
+| **Git & GitHub** | 75% |
+
+**☁️ Cloud, DevOps & Other Skills**
+
+| Skill | Proficiency |
+|---|---|
+| **Docker & Containerization** | 65% |
+| **GitHub Actions (CI/CD)** | 65% |
+| **AWS Cloud Computing** | 60% *(Learning)* |
+| **DSA** | 50% *(Learning)* |
+| **UI/UX Design** | 70% |
 
 ---
 
