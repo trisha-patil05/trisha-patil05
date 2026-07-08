@@ -36,7 +36,7 @@ Final year B.Tech IT student from Gujarat who enjoys building web experiences th
 
 - 🎨 Strong eye for **web design** — clean themes, good layouts, polished UI
 - 💻 Full-stack development with real internship experience at **Zymo Research**
-- 📈 Currently leveling up: **DSA** · **MySQL** · **AWS Cloud**
+- 📈 Currently leveling up: **DSA** · **MySQL**
 - 🎯 Final year · Open to internships where I can build, design, and grow
 
 ---
